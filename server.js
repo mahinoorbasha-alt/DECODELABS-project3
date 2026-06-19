@@ -26,16 +26,13 @@ CREATE TABLE IF NOT EXISTS students (
     course TEXT NOT NULL
 )
 `);
-
 // Home Route
 app.get("/", (req, res) => {
   res.send("Student Management API Running");
 });
-
 // CREATE Student
 app.post("/students", (req, res) => {
   const { name, email, course } = req.body;
-
   if (!name || !email || !course) {
     return res.status(400).json({
       message: "All fields are required"
