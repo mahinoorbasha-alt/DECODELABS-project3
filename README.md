@@ -142,4 +142,8 @@ DELETE /students/:id
 
 **Meharunnisa Noorbasha**
 
+Linkdin:
+https://www.linkedin.com/posts/meharunnisa-noorbasha-02706a377_decodelabs-internship-databaseintegration-activity-7472624912877117440-wLgP?utm_source=share&utm_medium=member_android&rcm=ACoAAF0XWZ8Bnz_oL82TzwLR23BTx2iD4D0MSTE
+
+
 DecodeLabs Internship Project
